@@ -1,3 +1,5 @@
+https://github.com/VictorModupe/HNG-12-Mobile-Repo-Projects 
+
 ### HNG Backlinks:
 
 ##  Flutter Developers
@@ -20,10 +22,10 @@
 
 
 ## Project Description
-This project serves as an introduction to GitHub repository setup and mobile app development using React Native. The repository is structured to support collaboration and version control while the mobile app provides links to relevant resources such as HNG Hire pages and project-related platforms.
+This project serves as an introduction to GitHub repository setup and mobile app development using React Native. 
 
 ## GitHub Repository Link
-[GitHub Repository](https://github.com/yourrepo)
+[GitHub Repository](https://github.com/VictorModupe/HNG-12-Mobile-Repo-Projects)
 
 ## HNG Backlinks
 The mobile app includes links to various HNG Hire pages for easy access:
@@ -41,16 +43,16 @@ Additional links:
 ## Instructions for Cloning, Building, and Running the Mobile App
 
 ### Prerequisites
-Ensure you have the following installed on your system:
-- Node.js (latest stable version)
+You need to have the following installed on the system:
+- Node.js 
 - npm or yarn
 - React Native CLI
-- Android Studio or Xcode (for emulator/simulator)
+- Android Studio or Xcode (for either emulator/simulator)
 
 ### Cloning the Repository
 ```sh
-git clone https://github.com/yourrepo.git
-cd yourrepo/mobile-app
+git clone https://github.com/VictorModupe/HNG-12-Mobile-Repo-Projects.git
+cd HNG-12-Mobile-Repo-Projects
 ```
 
 ### Installing Dependencies
